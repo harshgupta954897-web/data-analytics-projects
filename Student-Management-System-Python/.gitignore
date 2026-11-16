@@ -1,0 +1,8 @@
+
+__pycache__/
+*.pyc
+students.db
+student_report.csv
+student_marks_chart.png
+.venv/
+venv/
