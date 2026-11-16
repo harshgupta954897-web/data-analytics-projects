@@ -1,47 +1,52 @@
-# Data Analytics Projects
+# Harsh Gupta | Data Analytics Portfolio
 
-This repository contains my Data Analytics projects using Excel, SQL, Python, Pandas and Power BI.
+B.Tech Computer Science graduate and aspiring Data Analyst with hands-on experience in Excel, SQL, Python, Pandas, and Power BI.
 
-## Projects
+This repository contains my projects demonstrating data analysis, data cleaning, SQL querying, reporting, and data visualization skills.
 
-- Excel – HR Analytics
-- SQL – Data Analysis
-- Python & Pandas – Data Analysis
-- Power BI – Dashboard
+## 🛠️ Skills & Tools
 
-## About Me
+- **Excel:** Data Cleaning, IF, SUMIF, VLOOKUP, Pivot Tables
+- **SQL:** SELECT, WHERE, JOIN, GROUP BY, HAVING, Aggregate Functions
+- **Python:** Basics, Data Handling, Pandas
+- **Data Visualization:** Power BI, Matplotlib
+- **Database:** MySQL, SQLite
 
-B.Tech Computer Science & Engineering graduate and aspiring Data Analyst, currently developing skills in Excel, SQL, Python, Pandas and Power BI.
+## 📂 My Projects
 
----
+### 1. HR Analytics – Excel
+- Analyzed HR data using Microsoft Excel.
+- Used Pivot Tables and formulas to summarize employee information.
+- Created an HR Analytics dashboard.
 
-## SQL Project: E-Commerce Sales Analysis
+### 2. E-Commerce Sales Analysis – SQL
+- Analyzed e-commerce sales data using MySQL.
+- Worked with Customers, Products, and Orders tables.
+- Used JOIN, GROUP BY, aggregate functions, and date functions.
+- Explored revenue, customer spending, and product performance.
 
-### Project Overview
-Analyzed e-commerce sales data using MySQL to understand revenue, product performance, customer spending, and monthly sales trends.
+### 3. MagicBricks Real Estate Analysis
+- Analyzed real estate property data.
+- Explored property prices, locations, BHK, and area.
+- Practiced data analysis and visualization.
 
-### Tools Used
-- MySQL
-- MySQL Workbench
+### 4. Student Management System – Python
+- Developed a student record management application.
+- Used Python and SQLite for CRUD operations.
+- Used Pandas to export student reports to CSV.
+- Created marks charts using Matplotlib.
 
-### Dataset
-- Customers
-- Products
-- Orders
+## 🎓 Education
 
-### Key Analysis
-- Total orders and total customers
-- Total revenue and average order value
-- Best-selling products and highest-revenue products
-- Category-wise and city-wise revenue
-- Month-wise sales and order trends
-- Gender-wise customer analysis
-- Customer-wise spending and order frequency
-- High-value order analysis
+**B.Tech – Computer Science & Engineering**
 
-### SQL Concepts Used
-SELECT, WHERE, ORDER BY, JOIN, LEFT JOIN, GROUP BY, aggregate functions, and date functions.
+GLA University, Mathura
 
-### Project Files
-- `Ecommerce_Sales_Analysis.sql` — SQL queries covering 30 analysis questions.
-- `Ecommerce_SQL_Project.md` — Detailed project documentation.
+## 🎯 Career Objective
+
+Seeking an entry-level opportunity as a Data Analyst where I can apply my analytical skills, learn from real-world projects, and contribute to data-driven decision-making.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/harsh-gupta-cse
+- **GitHub:** https://github.com/harshgupta954897-web
